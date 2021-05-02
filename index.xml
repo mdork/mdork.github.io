@@ -5,12 +5,28 @@
     <link>https://mdork.github.io/</link>
       <atom:link href="https://mdork.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Dorkenwald</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdork.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Michael Dorkenwald</title>
       <link>https://mdork.github.io/</link>
     </image>
+    
+    <item>
+      <title>Behavior-Driven Synthesis of Human Dynamics</title>
+      <link>https://mdork.github.io/publication/behavior_driven/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdork.github.io/publication/behavior_driven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised behaviour analysis and magnification (uBAM) using deep learning</title>
+      <link>https://mdork.github.io/publication/nature/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdork.github.io/publication/nature/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
