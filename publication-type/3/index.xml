@@ -5,12 +5,20 @@
     <link>https://mdork.github.io/publication-type/3/</link>
       <atom:link href="https://mdork.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdork.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
       <link>https://mdork.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Stochastic Image-to-Video Synthesis using cINNs</title>
+      <link>https://mdork.github.io/publication/i2v/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdork.github.io/publication/i2v/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Behavior-Driven Synthesis of Human Dynamics</title>
