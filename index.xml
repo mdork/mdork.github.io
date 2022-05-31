@@ -5,12 +5,20 @@
     <link>https://mdork.github.io/</link>
       <atom:link href="https://mdork.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Dorkenwald</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdork.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Michael Dorkenwald</title>
       <link>https://mdork.github.io/</link>
     </image>
+    
+    <item>
+      <title>SCVRL: Shuffled Contrastive Video Representation Learning</title>
+      <link>https://mdork.github.io/publication/cvpr21/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mdork.github.io/publication/cvpr21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis </title>
