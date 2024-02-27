@@ -5,12 +5,20 @@
     <link>https://mdork.github.io/</link>
       <atom:link href="https://mdork.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Dorkenwald</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mdork.github.io/media/icon_hua9e052caffc5c83f3eca03d4f5fa3dce_421953_512x512_fill_lanczos_center_3.png</url>
       <title>Michael Dorkenwald</title>
       <link>https://mdork.github.io/</link>
     </image>
+    
+    <item>
+      <title>PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs</title>
+      <link>https://mdork.github.io/publication/cvpr24/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://mdork.github.io/publication/cvpr24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SCVRL: Shuffled Contrastive Video Representation Learning</title>
